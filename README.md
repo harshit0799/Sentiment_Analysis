@@ -45,6 +45,6 @@ as we can see the SVC classifer gave the best Accuracy so i downloaded the SVC m
 
  <hr>
  <h2>Contributors</h2>
- <p><a href="https://github.com/lepsygoyal">Lepsy Goyal</a></p>
+ <p><a href="https://github.com/harshit0799">Harshit MAKHIJA</a></p>
  <hr>
     
